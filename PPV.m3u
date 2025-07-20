@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="PPV" tvg-logo="https://spotlight29.com/wp-content/uploads/sites/6/2025/07/manny-pacquiao-vs-mario-barrios.jpg" group-title="Pacquiao vs Barrios­",PPV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_ppv_main_hd.mpd
